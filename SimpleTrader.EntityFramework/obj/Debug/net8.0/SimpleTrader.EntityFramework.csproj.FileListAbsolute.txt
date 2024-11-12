@@ -1,0 +1,17 @@
+C:\Users\abdal\source\repos\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\net8.0\SimpleTrader.EntityFramework.deps.json
+C:\Users\abdal\source\repos\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\net8.0\SimpleTrader.EntityFramework.runtimeconfig.json
+C:\Users\abdal\source\repos\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\net8.0\SimpleTrader.EntityFramework.dll
+C:\Users\abdal\source\repos\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\net8.0\SimpleTrader.EntityFramework.pdb
+C:\Users\abdal\source\repos\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\net8.0\SimpleTrader.Domain.dll
+C:\Users\abdal\source\repos\SimpleTrader\SimpleTrader.EntityFramework\bin\Debug\net8.0\SimpleTrader.Domain.pdb
+C:\Users\abdal\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\SimpleTrader.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\abdal\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\SimpleTrader.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdal\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\SimpleTrader.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\abdal\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\SimpleTrader.EntityFramework.AssemblyInfo.cs
+C:\Users\abdal\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\SimpleTrader.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\abdal\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\SimpleTr.A5681FE2.Up2Date
+C:\Users\abdal\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\SimpleTrader.EntityFramework.dll
+C:\Users\abdal\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\refint\SimpleTrader.EntityFramework.dll
+C:\Users\abdal\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\SimpleTrader.EntityFramework.pdb
+C:\Users\abdal\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\SimpleTrader.EntityFramework.genruntimeconfig.cache
+C:\Users\abdal\source\repos\SimpleTrader\SimpleTrader.EntityFramework\obj\Debug\net8.0\ref\SimpleTrader.EntityFramework.dll
